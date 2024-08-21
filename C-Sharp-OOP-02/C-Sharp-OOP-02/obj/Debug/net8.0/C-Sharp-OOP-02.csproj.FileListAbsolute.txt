@@ -1,0 +1,14 @@
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\bin\Debug\net8.0\C-Sharp-OOP-02.exe
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\bin\Debug\net8.0\C-Sharp-OOP-02.deps.json
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\bin\Debug\net8.0\C-Sharp-OOP-02.runtimeconfig.json
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\bin\Debug\net8.0\C-Sharp-OOP-02.dll
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\bin\Debug\net8.0\C-Sharp-OOP-02.pdb
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\obj\Debug\net8.0\C-Sharp-OOP-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\obj\Debug\net8.0\C-Sharp-OOP-02.AssemblyInfoInputs.cache
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\obj\Debug\net8.0\C-Sharp-OOP-02.AssemblyInfo.cs
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\obj\Debug\net8.0\C-Sharp-OOP-02.csproj.CoreCompileInputs.cache
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\obj\Debug\net8.0\C-Sharp-OOP-02.dll
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\obj\Debug\net8.0\refint\C-Sharp-OOP-02.dll
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\obj\Debug\net8.0\C-Sharp-OOP-02.pdb
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\obj\Debug\net8.0\C-Sharp-OOP-02.genruntimeconfig.cache
+D:\ASPdotNET\C-Sharp-OOP-02\C-Sharp-OOP-02\obj\Debug\net8.0\ref\C-Sharp-OOP-02.dll

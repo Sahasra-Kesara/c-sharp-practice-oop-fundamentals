@@ -1,0 +1,14 @@
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\bin\Debug\net8.0\C-Sharp-Records.exe
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\bin\Debug\net8.0\C-Sharp-Records.deps.json
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\bin\Debug\net8.0\C-Sharp-Records.runtimeconfig.json
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\bin\Debug\net8.0\C-Sharp-Records.dll
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\bin\Debug\net8.0\C-Sharp-Records.pdb
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\obj\Debug\net8.0\C-Sharp-Records.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\obj\Debug\net8.0\C-Sharp-Records.AssemblyInfoInputs.cache
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\obj\Debug\net8.0\C-Sharp-Records.AssemblyInfo.cs
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\obj\Debug\net8.0\C-Sharp-Records.csproj.CoreCompileInputs.cache
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\obj\Debug\net8.0\C-Sharp-Records.dll
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\obj\Debug\net8.0\refint\C-Sharp-Records.dll
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\obj\Debug\net8.0\C-Sharp-Records.pdb
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\obj\Debug\net8.0\C-Sharp-Records.genruntimeconfig.cache
+D:\ASPdotNET\C-Sharp-Records\C-Sharp-Records\obj\Debug\net8.0\ref\C-Sharp-Records.dll
